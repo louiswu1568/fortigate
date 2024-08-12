@@ -94,3 +94,4 @@ web-hp.prod.jimdo.systems
 web.jimdo.com
 cgtt.me
 *.googlecontent.com
+45.87.149.34.bc.googleusercontent.com
